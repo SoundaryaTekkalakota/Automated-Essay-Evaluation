@@ -1,0 +1,15 @@
+378
+Essay length=378
+53
+Number of Keywords=53
+13
+Number of spelling mistakes =13
+Number of punctuations=38
+1
+wrong capitalized sentences=1
+1
+Introduction is given by the student
+1
+Conclusion is given by the student
+7
+total POS=7
